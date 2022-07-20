@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 574 Mexant
-
-https://templatemo.com/tm-574-mexant
-
-*/
 
 /* ---------------------------------------------
 Table of contents
@@ -2161,4 +2155,11 @@ body {
 }
 img{
   width: 100%;
+}
+
+.servicos{
+  text-align: center;
+}
+.animated{
+  width: 300px;
 }
