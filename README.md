@@ -10,7 +10,7 @@ HTML5
 CSS3
 JavaScript
 Bootstrap
-O site está hospedado na plataforma X e o domínio é o Y.
+O site está hospedado no github páginas.
 
 Como contribuir
 Se você deseja contribuir para este projeto, siga as seguintes etapas:
