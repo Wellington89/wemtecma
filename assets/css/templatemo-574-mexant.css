@@ -2164,7 +2164,7 @@ img{
   width: 300px;
 }
 
-@media (max-width:480px){
+@media (max-width:430px){
   .slide-inner .header-text h2 {
     position: relative;
     z-index: 2;
