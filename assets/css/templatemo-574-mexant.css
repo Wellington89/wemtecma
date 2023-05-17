@@ -2165,3 +2165,11 @@ img{
 }
 
 
+@media (max-width:480px){
+  .swiper-slide swiper-slide-active{
+    width: 428px;
+    transition: all 0ms ease 0s;
+
+  }
+
+}
