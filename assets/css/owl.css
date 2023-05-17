@@ -184,3 +184,18 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+  @media (max-width:430px){
+    .slide-inner .header-text h2 {
+      position: relative;
+      z-index: 2;
+      font-size: 30px;
+      color: #fff;
+      font-weight: 700;
+      opacity: 1;
+      visibility: visible;
+      line-height: 70px;
+      margin-bottom: 40px;
+  }
+  
+  }
