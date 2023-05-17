@@ -2164,12 +2164,17 @@ img{
   width: 300px;
 }
 
-
 @media (max-width:480px){
-  .swiper-slide swiper-slide-active{
-    width: 428px;
-    transition: all 0ms ease 0s;
-
-  }
+  .slide-inner .header-text h2 {
+    position: relative;
+    z-index: 2;
+    font-size: 40px;
+    color: #fff;
+    font-weight: 700;
+    opacity: 1;
+    visibility: visible;
+    line-height: 70px;
+    margin-bottom: 40px;
+}
 
 }
